@@ -8,7 +8,10 @@
 <p align="center"><a href="https://chrome.google.com/webstore/detail/google-calendar-quick-dup/belnijodgolpgmpahmdkjbjehbobnfpd?hl=en"><img src="https://storage.googleapis.com/chrome-gcs-uploader.appspot.com/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a></p>
 
 ## How it works
-This extension adds a "Duplicate event" icon on the event preview card, letting you quickly duplicate it with one single click.
+**This extension adds a "Duplicate event" icon on the event preview card, letting you quickly duplicate it with one single click**
+<p>Or</p>
+
+**Pressing "." Period Key on your Keyboard Duplicates the event**
 
 <p align="center">
   <img src="./assets/second.png">
