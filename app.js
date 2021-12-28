@@ -96,6 +96,19 @@ function saveEvent() {
   }, DELAY);
 }
 
+/** ========== Adding Keyboard Shortcut ========== */
+document.onkeypress = function (e) {
+  var evt = window.event || e;
+  switch (evt.keyCode) {
+      case 46:  
+          // Call your method Here
+          duplicateEvent();
+          break;
+  }
+}
+/** ======================================== */
+
+
 function goToCurrentDate() {
   clearInterval(intervalGoToDay);
   intervalGoToDay = setInterval(function() {
